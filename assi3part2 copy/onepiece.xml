@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE onepieces [<!ELEMENT onepieces (onepiece+)>
+<!ELEMENT onepiece (name, island, boat) >
+
+<!ELEMENT name (#PCDATA) >
+
+<!ELEMENT island (#PCDATA) >
+
+<!ELEMENT boat (#PCDATA) >
+
+<!ATTLIST onepiece id CDATA #REQUIRED >]>
+<onepieces>
+  <onepiece id="1">
+    <name>luffy</name>
+    <island>fisherman</island>
+    <boat>goingmerry</boat>
+  </onepiece>
+  <onepiece id="2">
+    <name>zoro</name>
+    <island>wano</island>
+    <boat>goingmerry</boat>
+  </onepiece>
+</onepieces>

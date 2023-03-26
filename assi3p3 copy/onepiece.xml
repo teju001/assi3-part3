@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<onepieces>
+  <onepiece id="1">
+    <name>luffy</name>
+    <island>fisherman</island>
+    <ship>goingmerry</ship>
+  </onepiece>
+  <onepiece id="2">
+    <name>zoro</name>
+    <island>wano</island>
+    <ship>goingmerry</ship>
+  </onepiece>
+</onepieces>
